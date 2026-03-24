@@ -1,5 +1,7 @@
 ﻿# 🌍 Countries Explorer
 
+A React-based web application to explore country data with search, filtering, and detailed views.
+
 ## 🌐 Live Demo
 
 🔗 https://frontend-countries-api-project.netlify.app/
@@ -57,8 +59,8 @@ This project focuses on building a clean, scalable frontend architecture with re
 ### Run Locally
 
 ```bash
-git clone https://github.com/nikhil-barve1/countries_api.git
-cd countries_api
+git clone https://github.com/nikhil-barve1/countries-explorer.git
+cd countries-explorer
 npm install
 npm start
 ```
